@@ -1229,8 +1229,11 @@ a{
     padding:7rem 0 0;
 }
 .footer .footer-item img{
-    width:45%;
+    width:35%;
 
+}
+.footer .footer-item a{
+    font-size:1.5rem;
 }
 .footer .footer-item h4{
     font-size:2rem;
@@ -1241,6 +1244,7 @@ a{
 }
 .footer .footer-list{
     margin-top:4rem;
+    font-size:1.8rem;
 }
 .footer .footer-list li{
     font-size:1.8rem;
